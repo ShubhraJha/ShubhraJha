@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Shubhra Jha  
 
-<!--
-**ShubhraJha/ShubhraJha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Data Science & Machine Learning Enthusiast**  
+📊 Passionate about turning data into insights and building predictive models.  
+🧠 Constantly learning and exploring new ML techniques and visualization tools.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### What I Do
+- 🔹 Data cleaning, preprocessing & feature engineering  
+- 🔹 Machine Learning model building (Regression, Classification)  
+- 🔹 Exploratory Data Analysis (EDA) with Seaborn & Matplotlib  
+- 🔹 Model evaluation & interpretation (VIF, ROC, Confusion Matrix)
+
+---
+
+### 🌱 Currently Learning
+- 📘 Deep Learning with TensorFlow  
+- 🧩 Feature selection & model optimization  
+- 📊 Streamlit for interactive dashboards  
 -->
